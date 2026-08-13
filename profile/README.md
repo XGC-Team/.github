@@ -5,4 +5,5 @@ Intelligent command-and-control for heterogeneous robot teams: ground station, o
 | Repository | What it is |
 | --- | --- |
 | [`xgc2-images`](https://github.com/XGC-Team/xgc2-images) | Container images for simulation, development, CI, and deployment |
+| [`xgc2-ui`](https://github.com/XGC-Team/xgc2-ui) | Shared React UI foundation for XGC2 products |
 | [`xgc2-stt-service`](https://github.com/XGC-Team/xgc2-stt-service) | GPU-native realtime speech-to-text |
