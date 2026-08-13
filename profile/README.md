@@ -1,6 +1,6 @@
 # XGC Team
 
-XGC 做异构机器人集群的智能指控：地面站、编排内核、仿真与实机部署。
+Intelligent command-and-control for heterogeneous robot teams: ground station, orchestration core, simulation, and field deployment.
 
 | Repository | What it is |
 | --- | --- |
