@@ -24,7 +24,7 @@ Intelligent command-and-control for heterogeneous robot teams: ground station, o
 | [`xgc2-robot-description`](https://github.com/XGC-Team/xgc2-robot-description) | Aggregator for visual robot descriptions (Scout, FS150, Mecanum, B2+ARX) |
 | [`xgc2-robot-agilex`](https://github.com/XGC-Team/xgc2-robot-agilex) | AgileX Scout Mini onboard ROS 1 runtime: chassis, IMU, and ground-station bridge |
 | [`xgc2-robot-hf200`](https://github.com/XGC-Team/xgc2-robot-hf200) | HF200 UAV product |
-| [`xgc2-faster-lio`](https://github.com/XGC-Team/xgc2-faster-lio) | Faster-LIO lidar-inertial odometry |
+| [`xgc2-slam`](https://github.com/XGC-Team/xgc2-slam) | Public ROS 1 SLAM aggregator; currently maintains Faster-LIO |
 | [`xgc2-lidar-imu-calib`](https://github.com/XGC-Team/xgc2-lidar-imu-calib) | Offline LiDAR-IMU extrinsic identification for Faster-LIO |
 | [`xgc2-stt-service`](https://github.com/XGC-Team/xgc2-stt-service) | Self-hosted GPU speech-to-text with an API, management UI, and Linux desktop client |
 | [`xgc2-skills`](https://github.com/XGC-Team/xgc2-skills) | Public agent skills for generic robot onboard survey |
