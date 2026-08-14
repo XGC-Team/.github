@@ -13,10 +13,18 @@ Intelligent command-and-control for heterogeneous robot teams: ground station, o
 | [`xgc2-camera-core`](https://github.com/XGC-Team/xgc2-camera-core) | ROS-independent C++14 V4L2 camera capture library |
 | [`xgc2-acados`](https://github.com/XGC-Team/xgc2-acados) | Packaged acados solver stack for Ubuntu amd64 and arm64 |
 | [`xgc2-tbb`](https://github.com/XGC-Team/xgc2-tbb) | Packaged oneTBB runtime for XGC2 products |
+| [`xgc2-linux-utils`](https://github.com/XGC-Team/xgc2-linux-utils) | Host Linux utilities: performance governor and `xcli` |
 | [`xgc2-media-edge`](https://github.com/XGC-Team/xgc2-media-edge) | Pull-based WebRTC media edge for H264 camera sources |
 | [`xgc2-mavlink-router`](https://github.com/XGC-Team/xgc2-mavlink-router) | MAVLink packet router across UART, UDP, and TCP endpoints |
 | [`xgc2-vrpn-router`](https://github.com/XGC-Team/xgc2-vrpn-router) | Protocol-level VRPN tracker relay between networks |
 | [`xgc2-ros-msgs`](https://github.com/XGC-Team/xgc2-ros-msgs) | Shared ROS 1 message interfaces for cameras, estimators, trajectories, and state machines |
 | [`xgc2-ros1-utils`](https://github.com/XGC-Team/xgc2-ros1-utils) | Shared ROS 1 helpers for XGC2 controllers and estimators |
+| [`xgc2-scout-msgs`](https://github.com/XGC-Team/xgc2-scout-msgs) | ROS 1 AgileX Scout chassis message definitions |
+| [`xgc2-swarm-ros-bridge`](https://github.com/XGC-Team/xgc2-swarm-ros-bridge) | ZeroMQ ROS 1 bridge for selected swarm topics |
+| [`xgc2-robot-description`](https://github.com/XGC-Team/xgc2-robot-description) | Aggregator for visual robot descriptions (Scout, FS150, Mecanum, B2+ARX) |
 | [`xgc2-robot-agilex`](https://github.com/XGC-Team/xgc2-robot-agilex) | AgileX Scout Mini onboard ROS 1 runtime: chassis, IMU, and ground-station bridge |
+| [`xgc2-robot-hf200`](https://github.com/XGC-Team/xgc2-robot-hf200) | HF200 UAV product |
+| [`xgc2-faster-lio`](https://github.com/XGC-Team/xgc2-faster-lio) | Faster-LIO lidar-inertial odometry |
+| [`xgc2-lidar-imu-calib`](https://github.com/XGC-Team/xgc2-lidar-imu-calib) | Offline LiDAR-IMU extrinsic identification for Faster-LIO |
 | [`xgc2-stt-service`](https://github.com/XGC-Team/xgc2-stt-service) | Self-hosted GPU speech-to-text with an API, management UI, and Linux desktop client |
+| [`xgc2-skills`](https://github.com/XGC-Team/xgc2-skills) | Public agent skills for generic robot onboard survey |
