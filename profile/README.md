@@ -18,4 +18,5 @@ Intelligent command-and-control for heterogeneous robot teams: ground station, o
 | [`xgc2-vrpn-router`](https://github.com/XGC-Team/xgc2-vrpn-router) | Protocol-level VRPN tracker relay between networks |
 | [`xgc2-ros-msgs`](https://github.com/XGC-Team/xgc2-ros-msgs) | Shared ROS 1 message interfaces for cameras, estimators, trajectories, and state machines |
 | [`xgc2-ros1-utils`](https://github.com/XGC-Team/xgc2-ros1-utils) | Shared ROS 1 helpers for XGC2 controllers and estimators |
+| [`xgc2-robot-agilex`](https://github.com/XGC-Team/xgc2-robot-agilex) | AgileX Scout Mini onboard ROS 1 runtime: chassis, IMU, and ground-station bridge |
 | [`xgc2-stt-service`](https://github.com/XGC-Team/xgc2-stt-service) | Self-hosted GPU speech-to-text with an API, management UI, and Linux desktop client |
