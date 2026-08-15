@@ -10,8 +10,7 @@ Intelligent command-and-control for heterogeneous robot teams: ground station, o
 | [`xgc2-adapter-runtime-client-cpp`](https://github.com/XGC-Team/xgc2-adapter-runtime-client-cpp) | ROS-independent C++ client SDK for the Adapter Runtime Link |
 | [`xgc2-math`](https://github.com/XGC-Team/xgc2-math) | Header-only C++ geometry, filter, observer, and control math |
 | [`xgc2-state-machine`](https://github.com/XGC-Team/xgc2-state-machine) | Deterministic C++17 event-driven state-machine runtime |
-| [`xgc2-camera-core`](https://github.com/XGC-Team/xgc2-camera-core) | ROS-independent C++14 V4L2 camera capture library |
-| [`xgc2-camera-driver`](https://github.com/XGC-Team/xgc2-camera-driver) | ROS 1 camera driver for the XGC2 camera core |
+| [`xgc2-camera`](https://github.com/XGC-Team/xgc2-camera) | Public camera product: V4L2 core/driver, FS150, and D435 / D435i |
 | [`xgc2-acados`](https://github.com/XGC-Team/xgc2-acados) | Packaged acados solver stack for Ubuntu amd64 and arm64 |
 | [`xgc2-tbb`](https://github.com/XGC-Team/xgc2-tbb) | Packaged oneTBB runtime for XGC2 products |
 | [`xgc2-linux-utils`](https://github.com/XGC-Team/xgc2-linux-utils) | Host Linux utilities: performance governor and `xcli` |
