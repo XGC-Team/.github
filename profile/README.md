@@ -2,18 +2,21 @@
 
 Intelligent command-and-control for heterogeneous robot teams: ground station, orchestration core, simulation, and field deployment.
 
+This list is public repositories only. When a family has a public aggregator, only the aggregator is listed.
+
 | Repository | What it is |
 | --- | --- |
 | [`xgc2-images`](https://github.com/XGC-Team/xgc2-images) | Container images for simulation, development, CI, and field deployment |
 | [`xgc2-ui`](https://github.com/XGC-Team/xgc2-ui) | Shared React design system for XGC2 web products |
 | [`xgc2-protobuf`](https://github.com/XGC-Team/xgc2-protobuf) | Cross-language protobuf contracts and Adapter Runtime Link protocol |
+| [`xgc2-orchestration-core`](https://github.com/XGC-Team/xgc2-orchestration-core) | Product-neutral execution and control platform |
+| [`xgc2-nodes`](https://github.com/XGC-Team/xgc2-nodes) | Public aggregator for orchestration node packs |
 | [`xgc2-adapter-runtime-client-cpp`](https://github.com/XGC-Team/xgc2-adapter-runtime-client-cpp) | ROS-independent C++ client SDK for the Adapter Runtime Link |
 | [`xgc2-math`](https://github.com/XGC-Team/xgc2-math) | Header-only C++ geometry, filter, observer, and control math |
 | [`xgc2-state-machine`](https://github.com/XGC-Team/xgc2-state-machine) | Deterministic C++17 event-driven state-machine runtime |
-| [`xgc2-camera`](https://github.com/XGC-Team/xgc2-camera) | Public camera product: V4L2 core/driver, FS150, and D435 / D435i |
+| [`xgc2-camera`](https://github.com/XGC-Team/xgc2-camera) | Public camera aggregator: V4L2 core/driver and D435 / D435i |
 | [`xgc2-acados`](https://github.com/XGC-Team/xgc2-acados) | Packaged acados solver stack for Ubuntu amd64 and arm64 |
 | [`xgc2-tbb`](https://github.com/XGC-Team/xgc2-tbb) | Packaged oneTBB runtime for XGC2 products |
-| [`xgc2-linux-utils`](https://github.com/XGC-Team/xgc2-linux-utils) | Host Linux utilities: performance governor and `xcli` |
 | [`xgc2-media-edge`](https://github.com/XGC-Team/xgc2-media-edge) | Pull-based WebRTC media edge for H264 camera sources |
 | [`xgc2-mavlink-router`](https://github.com/XGC-Team/xgc2-mavlink-router) | MAVLink packet router across UART, UDP, and TCP endpoints |
 | [`xgc2-vrpn-router`](https://github.com/XGC-Team/xgc2-vrpn-router) | Protocol-level VRPN tracker relay between networks |
