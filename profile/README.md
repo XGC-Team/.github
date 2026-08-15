@@ -1,8 +1,8 @@
 # XGC Team
 
-Intelligent command-and-control for heterogeneous robot teams: ground station, orchestration core, simulation, and field deployment.
+Heterogeneous Robot Experimental Platform
 
-This list is public repositories only. When a family has a public aggregator, only the aggregator is listed.
+This list is public repositories only.
 
 | Repository | What it is |
 | --- | --- |
