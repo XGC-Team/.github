@@ -32,4 +32,3 @@ This list is public repositories only.
 | [`xgc2-estimator`](https://github.com/XGC-Team/xgc2-estimator) | Public aggregator for hover-thrust and rigid-state estimators |
 | [`xgc2-detection`](https://github.com/XGC-Team/xgc2-detection) | Public detection aggregator; imported packages parked under temp/ |
 | [`xgc2-stt-service`](https://github.com/XGC-Team/xgc2-stt-service) | Self-hosted GPU speech-to-text with an API, management UI, and Linux desktop client |
-| [`xgc2-skills`](https://github.com/XGC-Team/xgc2-skills) | Public agent skills for generic robot onboard survey |
